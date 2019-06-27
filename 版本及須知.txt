@@ -1,0 +1,7 @@
+版本:Unity2017.3以上
+
+UWA網址__https://lab.uwa4d.com/lab/5b86a65302004fb6597988b8?fbclid=IwAR2hkb9yumb6UGuOCbk4SwzTDWmuRiT_7s0G--bcCede8Tupi_GkM6xAnc8
+
+本人Github網址___https://github.com/z1125411235/UWA_GroundGrowing
+
+官方Github網址___https://github.com/RichardGSchmidt/GroundGrowing
